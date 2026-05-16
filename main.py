@@ -18,7 +18,7 @@ def main() -> QuerySet:
         ("Scarlett", "Keegan"),
         ("Will", "Smith"),
         ("Jaden", "Smith"),
-        ("Scarlett", "Johannson"),
+        ("Scarlett", "Johansson"),
     ]
 
     for genre in genres:
